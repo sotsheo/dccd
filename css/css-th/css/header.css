@@ -546,6 +546,23 @@ ul {
 	position: relative;
 	z-index: 9;
 }
+.page_in .content_page_a {
+  position: relative;
+  background: #202421;
+}
+.bgw{
+  background: #fff !important;
+}
+.bgw .icon_support ul li a {
+   color: #6D6D6D;
+}
+.bgw .search_icon a {
+  background: rgba(109, 109, 109, .2);
+}
+.color_una{
+  color: rgba(187, 14, 31, 1) !important;
+  font-weight: 400;
+}
 @media(max-width: 1660px){
 	.container {
     	width: calc(100% - 200px);

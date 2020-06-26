@@ -6,6 +6,8 @@
 }
 .text_project{
 	margin-bottom: 30px;
+	position: relative;
+	z-index: 99;
 }
 .text_project h3{
 	font-size: 2.2rem;
@@ -48,6 +50,8 @@
 }
 .slider_project .item{
 	position: relative;
+	overflow: hidden;
+	margin-bottom: 30px;
 }
 .slider_project  .item .content_text{
 	position: absolute;
@@ -66,7 +70,9 @@
 	opacity: 1;
 	visibility: visible;
 }
-
+.slider_project  .item .zom_img img{
+	/*width: 100%;*/
+}
 .slider_project  .item:hover .zom_img img{
 	transform: scale(1.1);
 }
@@ -766,6 +772,17 @@
 }
 .page_map .slider_map .title_header img {
     display: inline-block;
+}
+.dsf_p{
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.dsf_p .img a{
+	height: 100%;
+}
+.dsf_p .img a img{
+	min-height: 100%;
 }
 @media(max-width: 1666px){
 	.page_map .slider_map .title_header .text  .address .item ul{
