@@ -1,4 +1,9 @@
+@media screen and (min-width: 1200px){
+    body .container-fluid{
+        max-width: 1520px;
+    }
 
+}
 /* FOOTER LIEN HE */
 .footer-lienhe{
     background-image: url("../img/footerlienhe.png");
@@ -12,7 +17,8 @@
     position: absolute;
     left: 0; right: 0;
     top: 0; bottom: 0;
-    background: rgba(0,0,0,.5);
+    background: #17291A;
+    opacity:79%;
 }
 
 .form-footer{
@@ -60,6 +66,7 @@ body h4{
     font-size: 35px;
 }
 
+/*
 
 .form-footer button:before{
    content: '\f178';
@@ -67,10 +74,17 @@ body h4{
     color:#fff;
     font-size: 20px;
 }
+*/
 
 @media screen and (max-width: 1200px)
 {
     .copyright p {
         margin-top: 10px;
     }
+}
+
+
+
+.form-footer button img{
+   width: 20px;
 }
