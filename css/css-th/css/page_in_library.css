@@ -150,6 +150,90 @@
 .flex_content .item  .play p img{
 	width: 20px;
 }
+.row_table{
+	padding: 2%;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #707070;
+}
+.row_table:hover{
+	background: rgba(70, 71, 73, .2);
+}
+.row_table .name_d h2{
+	font-size: 1.8rem;
+	text-align: left;
+	letter-spacing: 0.33px;
+	color: #495E4D;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+.row_table .name_d p{
+	font-size: 1.4rem;
+	font-family: Helvetica;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #D9001B;
+	margin: 0px;
+}
+.row_table .name_d p span{
+	margin-right: 3%;
+}
+.row_table .name_d p span i{
+	margin-right: 5px;
+}
+.row_table .dowload_p {
+	position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0px 3%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    opacity: 1;
+    visibility: hidden;
+}
+.row_table:hover .dowload_p {
+	opacity: 1;
+	visibility: visible;
+}
+.row_table .dowload_p a{
+	font-family: Muli;
+	font-size: 1.2rem;
+    letter-spacing: 0px;
+    color: #D9001B;
+    background: #fff;
+    font-weight: 700;
+    display: block;
+    padding: 6px 10px;
+    background: #695656;
+    /* border-radius: 50px; */
+    position: relative;
+    padding-right: 50px;
+    background: rgba(255, 255, 255, 1) 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+.row_table .dowload_p span{
+	position: absolute;
+    width: 18px;
+    right: 0px;
+    height: 100%;
+    top: 0;
+    display: flex;
+    align-items: center;
+    background: red;
+    /* padding: 0px 11px; */
+    width: 35px;
+    text-align: center;
+    background: rgba(230, 230, 230, 1) 0% 0% no-repeat padding-box;
+}
+.row_table .dowload_p span img{
+    width: 20px;
+    margin: 0 auto;
+
+}
+.mgb10{
+	margin-bottom: 10%;
+}
 @keyframes zomv1{
 	0% {
 		-webkit-transform: rotate(0) scale(.7) skew(1deg);
@@ -170,11 +254,17 @@
 }
 @media(max-width: 992px){
 	.flex_content .item {
-    	width: 50%;
+		width: 50%;
 	}
 }
 @media(max-width: 765px){
+	.tab_page ul {
+    	flex-wrap: wrap;
+	}
+	.row_table {
+    	padding: 4%;
+	}
 	.flex_content .item {
-    	width: 100%;
+		width: 100%;
 	}
 }

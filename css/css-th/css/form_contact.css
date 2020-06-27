@@ -119,6 +119,7 @@ label {
 	color: #fff;
 	text-align: center;
 	z-index: 9;
+	line-height: 20px;
 }
 .checkbox_t label:after {
 	position: absolute;

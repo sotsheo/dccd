@@ -280,6 +280,10 @@
 .item_field .count_field p{
 	display: flex;align-items: center;
 }
+.item_field .count_field{
+	position: relative;
+    z-index: 99;
+}
 .item_field .count_field p span{
 	color: rgba(187, 14, 31, 1);
 	margin-left: -30px;
