@@ -8,7 +8,7 @@
     }
 
 }
-body h2{
+h2{
     font-family: UTM Alter Gothic;
     font-size: 60px;
 }
@@ -16,9 +16,65 @@ h4{
     font-family: UTM Alter Gothic;
     font-size: 36px;
 }
+.page-gtc p{
+    font-size: 18px;
+}
 .item_field .count_field p{
     float:left;
 }
 .item_field .count_field h4{
  padding-top: 25px;
 }
+.title_text{
+    margin-top:40px;
+}
+.text-box{
+    margin-top:80px;
+
+}
+.text-box h4{
+    margin-bottom:80px;
+
+}
+.pagefull {
+    background-image: url("../../images/img/imgtop2.png");
+    background-size: cover;
+    background-repeat: no-repeat    ;
+}
+.pagefull  .tuvanthietke{
+    background-image: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

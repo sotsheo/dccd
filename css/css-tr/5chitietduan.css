@@ -8,12 +8,12 @@
     }
 
 }
-body h2{
-    font-family: UTM Alter Gothic;
+.nvhtt h2{
+
     font-size: 60px;
 }
-h4{
-    font-family: UTM Alter Gothic;
+.nvhtt h4{
+
     font-size: 36px;
 }
 
@@ -101,12 +101,12 @@ p{
         z-index: -2;
     }
 }
-body h4{
-    font-family: UTM Alter Gothic;
-    font-size: 35px;
+h4{
+
+    font-size: 36px;
 }
 body h2{
-    font-family: UTM Alter Gothic;
+
     font-size: 60px;
 }
 /* 5 chi tiet du an */
@@ -114,7 +114,7 @@ body h2{
 
 .nvhtt .group-text p{
     color: #BB0E1F;
-    font-size: 22px;
+
 }
 .nvhtt .group-text h4{
     font-size: 36px;
@@ -144,7 +144,7 @@ body h2{
     z-index: -2;
 }
 .gtda{
-    margin-top: 80px;
+    margin-top: 50px;
     margin-bottom: 150px;
 }
 .gtda h2:before{
@@ -202,7 +202,10 @@ body h2{
     transform: rotateY(180deg);
     margin-right: 20px;
 }
-
+.page-ctda .bg_f:before{
+    background: #3C4E40;
+    opacity: 0.4;
+}
 
 
 
