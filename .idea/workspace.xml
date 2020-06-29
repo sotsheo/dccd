@@ -5,11 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chitietduan.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitietduan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chitiettintuc.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitiettintuc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/9chitiettintuc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/9chitiettintuc.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/gioithieuchitiet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/gioithieuchitiet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/css-tr/lienhe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/lienhe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctlinhvuchoatdong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ctlinhvuchoatdong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gioithieu-chitiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/gioithieu-chitiet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
     </list>
@@ -62,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1593394736206</updated>
       <workItem from="1593394737334" duration="1244000" />
-      <workItem from="1593396284006" duration="10440000" />
+      <workItem from="1593396284006" duration="11634000" />
+      <workItem from="1593411598581" duration="3957000" />
     </task>
     <servers />
   </component>
