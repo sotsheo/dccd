@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d99cfa9e-155a-4107-b1a5-d32f42476baf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/css-tr/gioithieuchung1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gioithieuchung1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chitietduan.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitietduan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chitiettintuc.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitiettintuc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/lienhe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/lienhe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctlinhvuchoatdong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ctlinhvuchoatdong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gioithieu-chitiet.html" beforeDir="false" afterPath="$PROJECT_DIR$/gioithieu-chitiet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css-tr/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,14 +19,24 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dyQDvK6oRdJyAR7Z5xinzHqFwh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +68,7 @@
       <updated>1593394736206</updated>
       <workItem from="1593394737334" duration="1244000" />
       <workItem from="1593396284006" duration="11634000" />
-      <workItem from="1593411598581" duration="3957000" />
+      <workItem from="1593411598581" duration="5891000" />
     </task>
     <servers />
   </component>
