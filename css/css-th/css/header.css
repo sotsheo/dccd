@@ -580,6 +580,10 @@ ul {
   content: '';
 }
 @media(max-width: 1660px){
+  .menu_right .icon_menu {
+      width: 80px;
+      height: 80px;
+  }
 	.container {
     	width: calc(100% - 200px);
 	}
