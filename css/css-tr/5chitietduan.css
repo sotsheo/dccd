@@ -18,7 +18,7 @@
 }
 
 .titlelight p, .title p{
-    font-family: segoeui_0;
+    font-family: Segoe UI;
 }
 p{
     font-size: 24px;
@@ -186,6 +186,9 @@ body h2{
     width: 904px;
     margin-right: 30px;
 
+}
+.slider_project .item .content_text h2{
+    padding-bottom: 15px;
 }
 .w200:before {
     width: 110%;

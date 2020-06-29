@@ -18,22 +18,22 @@
 }
 
 .titlelight p, .title p{
-    font-family: segoeui_0;
+    font-family: Segoe UI;
 }
 .title-team p{
-    font-family: segoeui_0;
+    font-family: Segoe UI;
     font-size: 22px;
 }
 .team-item .content-box{
     padding-top:37px;
 }
 .team-item .content-box p{
-    font-family: segoeui_0;
+    font-family: Segoe UI;
     font-size: 22px;
 }
 p{
     font-size: 22px;
-    font-family: Arial;
+    font-family: Segoe UI;
 }
 strong{
     font-family: "UTM Avo";
