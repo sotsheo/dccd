@@ -15,6 +15,10 @@ h4{
     font-family: UTM Alter Gothic;
     font-size: 36px;
 }
+
+.titlelight p, .title p{
+    font-family: segoeui_0;
+}
 p{
     font-size: 24px;
 }
@@ -159,10 +163,11 @@ body h2{
     color:black;
 }
 .gtda .group-text h3{
-    margin-top:80px;
+ /*   margin-top:80px;*/
 }
 .title p{
     margin-left:50px;
+
 }
 .title p:after{
     position: absolute;
@@ -189,8 +194,13 @@ body h2{
         width:110% !important;
     }
 }
-
-
+.carousel-page{
+    background-color: #202421;
+}
+.btn_click_next .prev1 img{
+    transform: rotateY(180deg);
+    margin-right: 20px;
+}
 
 
 

@@ -21,6 +21,10 @@
     font-size: 36px;
 
 }
+
+.titlelight p, .title p{
+    font-family: segoeui_0;
+}
 strong{
     font-size: 18px;
     font-family: Arial;
@@ -160,8 +164,9 @@ hr{
 }
 
 
-.chitiettintuc .search-sb input:placeholder{
-    font-size: 24px;
+.chitiettintuc .search-sb input::placeholder{
+    font-size: 18px;
+    color:#BB0E1F;
     padding-left:25px;
 }
 
@@ -172,16 +177,19 @@ hr{
     border: none;
     top: 5px;
     font-size: 17px;
+    color: transparent;
 }
-.chitiettintuc .fa-search:before {
-    content: "\f002";
-    font-family: fontawesome;
-    top: 12px;
+.chitiettintuc .search-sb img{
     position: absolute;
-    right: 10px;
-    font-size: 24px;
-    color: #bb0e1f;
+    right: 18px;
+    background-color: transparent;
+    border: none;
+    top: 20px;
+    font-size: 17px;
+    color: transparent;
+    width:24px;
 }
+
 .text-sb p{
     font-size: 22px;
     padding: 30px;
@@ -266,10 +274,25 @@ hr{
 .chitiettintuc  .hrsb{
     float:left;
 }
-
-
-
-
+.chitiettintuc .text-padding p{
+    background-color: #2b2f2c;
+    padding-top: 30px;
+    padding-left: 54px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-left:0px;
+}
+.text-padding p:after{
+    display: none;
+}
+.textpadding span{
+    font-size: 30px;
+    color: #A61B26;
+    font-style: italic;
+}
+.breadcrumb_th ul li a {
+    font-family: segoeui_0;
+}
 
 
 

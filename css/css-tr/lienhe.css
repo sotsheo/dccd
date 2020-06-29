@@ -4,13 +4,17 @@
     }
 
 }
-body h2{
+h2{
     font-family: UTM Alter Gothic;
     font-size: 60px;
 }
-body h4{
+h4{
     font-family: UTM Alter Gothic;
     font-size: 36px;
+}
+
+.titlelight p, .title p{
+    font-family: segoeui_0;
 }
 p{
     font-size: 24px;
@@ -56,9 +60,16 @@ p{
     background-color: #fff;
 }
 .headquarters h3{
-    color: #be1a2b;
+    color: #8C1826;
+    font-size: 18px;
+    font-family: 'UTM Avo';
+    font-weight: 700;
 }
-p{
+.headquarters .content-box{
+    padding-top: 83px;
+    padding-left: 62px;
+}
+.maps .headquarters .content-box p{
     font-size: 16px;
 }
 .mapsgtct {
