@@ -18,7 +18,7 @@
 	<script src="js/jquery.min.js" type="text/javascript"></script>
 </head>
 <body class="fs10">
-	<!-- <div class="loader_div">
+	<div class="loader_div">
 		<div class="loader">
 			<span></span>
 			<span></span>
@@ -26,7 +26,7 @@
 			<span></span>
 			<span></span>
 		</div>
-	</div> -->
+	</div>
 
 	<div class="menu_right ">
 		<div class="icon_menu ">
@@ -770,6 +770,8 @@
 			prevArrow:"<button class='prev slick-prev'><img class='a-left control-c ' src='images/right-arrow.png'></button>",
 			nextArrow:"<button class='next slick-next'><img class='a-right control-c ' src='images/right-arrow.png'></button>",
 			asNavFor: '.img_slider',
+			autoplay: true,
+  			autoplaySpeed: 4000,
 		});
 		$(".img_slider").slick({
 			dots: false,
