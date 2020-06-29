@@ -1,15 +1,17 @@
+
 @media screen and (min-width: 1200px){
     .container-fluid{
         max-width: 1515px !important;
     }
 
 }
-body h2{
-    font-family: UTM Alter Gothic;
+
+ h2{
+
     font-size: 60px;
 }
 .team h4{
-    font-family: UTM Alter Gothic;
+
     font-size: 36px;
     color: #c12332;
 
@@ -47,7 +49,7 @@ strong{
     margin-top: 80px;
 }
 .team-item{
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .doingulanhdao .title .title-box .bt-box{
     width: 100%;
@@ -106,7 +108,7 @@ strong{
 }
 .team{
     margin-bottom: 150px;
-    margin-top:80px;
+    margin-top:0px;
 }
 .pagecolorlight{
     background-color:#fff;
@@ -119,4 +121,7 @@ strong{
 }
 .item_footer form {
     width:100%;
+}
+.item_footer p{
+    font-family: "UTM Avo";
 }

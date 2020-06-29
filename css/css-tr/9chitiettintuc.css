@@ -13,25 +13,25 @@
     }
 }
 .chitiettintuc h2{
-    font-family: UTM Alter Gothic;
+
     font-size: 60px;
 }
 .chitiettintuc h4{
-    font-family: UTM Alter Gothic;
+
     font-size: 36px;
 
 }
 
 .titlelight p, .title p{
-    font-family: segoeui_0;
+    font-family:  Segoe UI;
 }
 strong{
     font-size: 18px;
-    font-family: Arial;
+    font-family:  Segoe UI;
 }
 p{
     font-size: 18px;
-    font-family: Arial;
+    font-family: Segoe UI;
 }
 .chitiettintuc .group-icon span:last-child:before{
     content: '\f0c0';
@@ -74,9 +74,7 @@ p{
 .chitiettintuc .content-box h4{
     padding-top: 10px;
 }
-.chitiettintuc .content-box h3{
-    padding-bottom: 10px;
-}
+
 .textcontent2{
     padding: 25px;
     background-color: #2b2f2c;
@@ -216,7 +214,7 @@ hr{
 }
 .text-sb p a{
     color:#fff;
-    font-family: UTM Alter Gothic;
+    font-family:  Segoe UI;
 }
 .text-sb p a:hover{
     color:grey;
@@ -285,16 +283,26 @@ hr{
 .text-padding p:after{
     display: none;
 }
+.textpadding{
+    font-family: Roboto;
+    font-style:italic;
+    font-size: 23px;
+}
 .textpadding span{
     font-size: 30px;
     color: #A61B26;
     font-style: italic;
 }
 .breadcrumb_th ul li a {
-    font-family: segoeui_0;
+    font-family: Segoe UI;
 }
+.group-icon{
+    margin-top: 25px;
+}
+.group-icon span{
+    font-size: 15px;
 
-
+}
 
 
 
