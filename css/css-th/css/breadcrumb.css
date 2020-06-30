@@ -20,6 +20,7 @@
 }
 .breadcrumb_th ul{
 	display: flex;
+	flex-wrap: wrap;
 }
 .breadcrumb_th ul li a{
 	font-size: 1.4rem;

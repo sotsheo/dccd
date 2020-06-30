@@ -80,5 +80,21 @@
 	.item_news .content_text_big {
    		left: 0;
 	}
+	.page_contact .title_text h3 {
+		font-size: 2rem;
+		margin-bottom: 4px;
+	}
+	.title_text h2 {
+	    font-size: 3rem;
+	    overflow: hidden;
+	}
+	.title_library h2 {
+    	font-size: 4rem;
+    	margin-bottom: 420px;
+	}
+	.item_library .content_text h2 a,
+	.item_page .text h2 a {
+    	font-size: 2.6rem;
+	}
 }
 
