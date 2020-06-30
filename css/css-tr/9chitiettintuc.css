@@ -6,7 +6,7 @@
 }
 @media screen and (max-width: 1200px){
   .chitiettintuc h2{
-      font-size: 48px;
+      font-size: 36px;
   }
 
 }
@@ -18,17 +18,21 @@
         margin-left: 0px !important;
     }
 }
-
-
+.chitiettintuc h2{
+    font-size: 48px;
+}
+.chitiettintuc h4{
+    font-size: 30px;
+}
 .titlelight p, .title p{
     font-family:  Segoe UI;
 }
 strong{
-    font-size: 18px;
+    font-size: 16px;
     font-family:  Segoe UI;
 }
 p{
-    font-size: 18px;
+    font-size: 16px;
     font-family: Segoe UI;
 }
 .chitiettintuc .group-icon span:last-child:before{
@@ -36,7 +40,7 @@ p{
     font-family: fontawesome;
 }
 .chitiettintuc p{
-    font-size: 18px;
+    font-size: 16px;
 }
 
 /* MAN SO 9:  */
@@ -59,8 +63,8 @@ p{
 }
 .chitiettintuc .title .content-box{
     background-color: #BB0E1F;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     border-radius: 9px;
     padding-left: 10px;
     padding-right: 10px;
@@ -164,7 +168,7 @@ hr{
 
 
 .chitiettintuc .search-sb input::placeholder{
-    font-size: 18px;
+    font-size: 16px;
     color:#BB0E1F;
     padding-left:25px;
 }
@@ -190,7 +194,7 @@ hr{
 }
 
 .text-sb p{
-    font-size: 22px;
+    font-size: 18px;
     padding: 30px;
     border-bottom: 1px solid grey;
     margin-bottom: 0;
@@ -245,7 +249,7 @@ hr{
     position: relative;
 }
 .tag-sb p{
-    font-size: 17px;
+    font-size: 16px;
     margin-bottom: 30px;
     margin-right: 12px;
     float: left;

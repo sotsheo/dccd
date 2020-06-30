@@ -28,6 +28,9 @@ p{
         left: 0;
         z-index: -1;
     }
+    .g-content-box h4{
+        margin-top:0px !important;
+    }
 }
 @media screen and (max-width: 992px) {
     .doingulanhdao .title p:after{
@@ -112,7 +115,7 @@ p{
     right: 0;
     top: 0;
     bottom: 0;
-    background: transparent linear-gradient(180deg, #202421 0%, #1E271FF2 100%) 0% 0% no-repeat padding-box;
+    background: #17291A;
     opacity: 80%;
 }
 .group-partner .title_text h2{
