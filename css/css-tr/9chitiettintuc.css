@@ -4,6 +4,12 @@
     }
 
 }
+@media screen and (max-width: 1200px){
+  .chitiettintuc h2{
+      font-size: 48px;
+  }
+
+}
 @media screen and (max-width: 992px) {
     .chitiettintuc .title p:after{
         display: none;
@@ -12,15 +18,7 @@
         margin-left: 0px !important;
     }
 }
-.chitiettintuc h2{
 
-    font-size: 60px;
-}
-.chitiettintuc h4{
-
-    font-size: 36px;
-
-}
 
 .titlelight p, .title p{
     font-family:  Segoe UI;
@@ -110,13 +108,15 @@ p{
 }
 .group-tag a{
     color: #ffffff;
-    margin-right: 15px;
     text-decoration: none;
     padding: 10px;
     margin-top:30px;
     margin-bottom:10px;
     float:left;
     font-size: 13px;
+}
+.group-tag a:first-child{
+ margin-right:15px;
 }
 .group-tag a:hover{
    color:white;
@@ -131,8 +131,9 @@ p{
 }
 .group-tag-icon a{
     color:white;
-    margin-right:100px;
+    margin-right:65px;
     float:left;
+    font-size: 13px;
 }
 .group-tag-icon a:hover{
     color:white;
@@ -303,7 +304,14 @@ hr{
     font-size: 15px;
 
 }
+.group-icon span i{
+    font-style: inherit;
+}
+.group-icon span i:before{
+    content: '\f073';
+    font-family: FontAwesome;
 
+}
 
 
 

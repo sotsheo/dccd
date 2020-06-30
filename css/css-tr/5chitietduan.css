@@ -1,21 +1,20 @@
 
 @media screen and (min-width: 1200px){
-    body .container-fluid{
+   /* body .container-fluid{
         max-width: 1515px;
-    }
+    }*/
     .page-img-project .container-fluid{
         width: 1920px;
     }
 
 }
-.nvhtt h2{
 
-    font-size: 60px;
+@media screen and (max-width: 1200px){
+    .carousel-page .owl-item .img img{
+        width: 600px;
+    }
 }
-.nvhtt h4{
 
-    font-size: 36px;
-}
 
 .titlelight p, .title p{
     font-family: Segoe UI;
@@ -101,14 +100,7 @@ p{
         z-index: -2;
     }
 }
-h4{
 
-    font-size: 36px;
-}
-body h2{
-
-    font-size: 60px;
-}
 /* 5 chi tiet du an */
 
 
@@ -208,6 +200,9 @@ body h2{
 .page-ctda .bg_f:before{
     background: #3C4E40;
     opacity: 0.4;
+}
+.page-ctda .title_text h2{
+    font-weight: 400;
 }
 
 

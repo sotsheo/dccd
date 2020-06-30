@@ -4,14 +4,7 @@
     }
 
 }
-h2{
 
-    font-size: 60px;
-}
-h4{
-
-    font-size: 36px;
-}
 
 .titlelight p, .title p{
     font-family: Segoe UI;
@@ -27,9 +20,6 @@ p{
 }
 
 @media screen and (max-width: 1200px){
-    body h2{
-        font-size: 48px;
-    }
     .doingulanhdao .title .title-box {
         position: absolute;
         top: 62px;
@@ -48,7 +38,7 @@ p{
 
 /* SECTION MAPS */
 .pagecolor .bg_f:before {
-    background: rgb(187, 14, 31);
+    background: rgba(97, 60, 62, .8);
 }
 .maps{
     margin-bottom: 50px;

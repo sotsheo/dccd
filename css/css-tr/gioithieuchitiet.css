@@ -6,16 +6,7 @@
 
 }
 
- h2{
 
-    font-size: 60px;
-}
-.team h4{
-
-    font-size: 36px;
-    color: #c12332;
-
-}
 
 .titlelight p, .title p{
     font-family: Segoe UI;
@@ -121,7 +112,4 @@ strong{
 }
 .item_footer form {
     width:100%;
-}
-.item_footer p{
-    font-family: "UTM Avo";
 }

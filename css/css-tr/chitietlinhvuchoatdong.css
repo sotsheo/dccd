@@ -4,14 +4,6 @@
     }
 
 }
-h2{
-
-    font-size: 60px;
-}
-h4{
-
-    font-size: 36px;
-}
 
 .titlelight p, .title p{
     font-family: Segoe UI;
@@ -121,7 +113,7 @@ p{
     top: 0;
     bottom: 0;
     background: transparent linear-gradient(180deg, #202421 0%, #1E271FF2 100%) 0% 0% no-repeat padding-box;
-    opacity: 90%;
+    opacity: 80%;
 }
 .group-partner .title_text h2{
     margin-bottom: 40px;
@@ -135,7 +127,14 @@ p{
 
     padding-right: 0px;
 }
+.group-partner img{
+    opacity: 0.7;
+}
 
+.group-partner img:hover{
+    opacity: 1;
+    transition: 0.3s;
+}
 
 
 

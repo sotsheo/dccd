@@ -8,14 +8,7 @@
     }
 
 }
-h2{
 
-    font-size: 60px;
-}
-h4{
-
-    font-size: 36px;
-}
 .page-gtc p{
     font-size: 18px;
 }
@@ -45,13 +38,34 @@ h4{
     background-image: none;
 }
 
+.page-textcolor .item_field h2{
+    color: #6D6D6D !important;
+    font-weight: 100 !important;
+    line-height: 2.6;
 
-
-
-
-
-
-
+}
+.page-textcolor .titlecolor h2:before{
+    background:#3C4E40;
+    opacity: 0.4;
+}
+.page-textcolor .titlecolor h2{
+    margin-bottom: 30px;
+}
+.page-textcolor .titlecolor .button-color .title_text .btn_move span img{
+    width: 35px;
+}
+.page-textcolor .titlecolor{
+    margin-top:0px;
+}
+.page-textcolor{
+    background-image: url("../../images/img/bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dnld-color .title-text-color:before{
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+}
 
 
 
