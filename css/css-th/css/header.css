@@ -579,6 +579,9 @@ ul {
   background: rgba(0,0,0,.5);
   content: '';
 }
+body{
+      overflow-x: hidden;
+}
 @media(max-width: 1660px){
   .menu_right .icon_menu {
       width: 80px;
