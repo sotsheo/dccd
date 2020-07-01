@@ -67,15 +67,16 @@
         margin-bottom: 30px;
         font-size: 24px;
     }
-    .dnld-color .btn_move{
-        margin-top: 30px;
-        position: absolute;
-        left: 0;
-        bottom: -580px;
 
-    }
     .page-textcolor .titlecolor .button-color .title_text p{
         font-size: 18px;
+    }
+
+    .page-slider-team {
+       margin-bottom: 0;
+    }
+    .page-slider-team .group_fle {
+        top: 76%;
     }
 
 

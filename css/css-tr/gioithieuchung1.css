@@ -18,9 +18,6 @@
 
 }
 
-
-
-
 .page-gtc p{
     font-size: 16px;
 }
@@ -66,6 +63,9 @@
 }
 .page-textcolor .titlecolor .button-color .title_text .btn_move span img{
     width: 35px;
+}
+.page-textcolor .titlecolor .button-color p{
+    font-size: 18px;
 }
 .page-textcolor .titlecolor{
     margin-top:0px;
