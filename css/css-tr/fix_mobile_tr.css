@@ -1,4 +1,13 @@
-@media screen and (max-width: 576px ){
+@media screen and (max-width: 1536px ) {
+    .page-textcolor .item_field .count_field h2 {
+        padding-top: 18px;
+    }
+    .circle {
+        right: 15%;
+    }
+}
+
+@media screen and (max-width: 767px ){
     /* LIEN HE */
     .page-contact-color {
         padding-bottom: 8%;
@@ -37,6 +46,66 @@
     }
 
 
+
+    /* GIOI THIEU CHUNG 1 */
+    .page-textcolor .item_field .count_field{
+        padding-bottom: 30px;
+    }
+    .page-textcolor .item_field .count_field .icon-color img{
+        right: 0;
+        bottom: -6%;
+    }
+    .page-gtc{
+        padding-bottom: 30px;
+    }
+    .page-gtc .text-box{
+        margin-top: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .page-gtc .text-box h4{
+        margin-bottom: 30px;
+        font-size: 24px;
+    }
+    .dnld-color .btn_move{
+        margin-top: 30px;
+        position: absolute;
+        left: 0;
+        bottom: -580px;
+
+    }
+    .page-textcolor .titlecolor .button-color .title_text p{
+        font-size: 18px;
+    }
+
+
+    /* CHI TIETY TIN TUC    */
+    .group-tag-icon a{
+        margin-right:30px;
+    }
+
+    /* CHI TIET LINH VUC HOAT DONG  */
+    .g-content-box{
+        text-align: center;
+    }
+    /* CHI TIET DU AN */
+    .page .img_slider {
+        height: auto;
+    }
+
+    .page .img_slider img{
+        height: auto;
+        max-width: 100%;
+    }
+    .gtda {
+        margin-bottom: 50px;
+    }
+    .text_project h2{
+        font-size: 48px;
+    }
+    .circle {
+        right: 38%;
+    }
 
 
 

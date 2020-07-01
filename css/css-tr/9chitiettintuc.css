@@ -44,7 +44,9 @@ p{
 }
 
 /* MAN SO 9:  */
-
+.chitiettintuc .container-fluid .col-md-4{
+    margin-top:30px;
+}
 .chitiettintuc .title p{
     margin-left:50px;
 }
@@ -164,13 +166,15 @@ hr{
 .chitiettintuc .search-sb input{
     padding-top: 25px;
     padding-bottom: 25px;
+    padding-left:25px;
+    font-size: 16px;
 }
 
 
 .chitiettintuc .search-sb input::placeholder{
-    font-size: 16px;
+
     color:#BB0E1F;
-    padding-left:25px;
+
 }
 
 .chitiettintuc .search-sb button{
@@ -239,6 +243,13 @@ hr{
     position: absolute;
     top: 0px;
 }
+.news-sb .sb-text p{
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.news-sb .sb-text span{
+    font-size: 14px;
+}
 .news-sb .sb-box:hover .sb-text{
     display: block;
 }
@@ -265,7 +276,10 @@ hr{
     background-color: #2b2f2c;
     border-radius: 10px;
 }
-
+.tag-sb a:hover{
+    background-color: #bb0e1f;
+    transition: 0.3s;
+}
 .cttt-page{
     padding-top: 5%;
     padding-bottom: 0%;

@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1200px){
     .carousel-page .owl-item .img img{
-        width: 600px;
+       max-width: 100%;
     }
 }
 
