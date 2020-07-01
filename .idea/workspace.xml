@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d99cfa9e-155a-4107-b1a5-d32f42476baf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chitietduan.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitietduan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chitiettintuc.html" beforeDir="false" afterPath="$PROJECT_DIR$/chitiettintuc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/5chitietduan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/9chitiettintuc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/9chitiettintuc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/chitietlinhvuchoatdong.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css-tr/fix_mobile_tr.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-tr/fix_mobile_tr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctlinhvuchoatdong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ctlinhvuchoatdong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gioithieuchung1.html" beforeDir="false" afterPath="$PROJECT_DIR$/gioithieuchung1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NEWSUN" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -75,7 +67,7 @@
       <workItem from="1593411598581" duration="15798000" />
       <workItem from="1593479478739" duration="21650000" />
       <workItem from="1593522659150" duration="671000" />
-      <workItem from="1593569581158" duration="13221000" />
+      <workItem from="1593569581158" duration="14291000" />
     </task>
     <servers />
   </component>
