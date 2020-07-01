@@ -74,7 +74,9 @@ p{
 .chitiettintuc .title .content-box hr{
     width:100%;
 }
-
+.chitiettintuc .content-box{
+    width: 130px;
+}
 .chitiettintuc .content-box h4{
     padding-top: 10px;
 }
@@ -164,10 +166,9 @@ hr{
 }
 
 .chitiettintuc .search-sb input{
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left:25px;
+    height:61px;
     font-size: 16px;
+    padding-left:25px;
 }
 
 
@@ -191,10 +192,10 @@ hr{
     right: 18px;
     background-color: transparent;
     border: none;
-    top: 20px;
+    top: 65%;
     font-size: 17px;
     color: transparent;
-    width:24px;
+    width: 24px;
 }
 
 .text-sb p{
@@ -210,8 +211,7 @@ hr{
 }
 .sb-text p{
     padding-left: 18px;
-    padding-top: 100px;
- /*  padding-bottom: 30px;*/
+
 }
 .sb-text span{
     padding-left: 18px;
@@ -244,11 +244,15 @@ hr{
     top: 0px;
 }
 .news-sb .sb-text p{
-    font-size: 20px;
-    padding-bottom: 50px;
+    font-size: 18px;
+    position: absolute;
+    letter-spacing: 0px;
+    top: 32%;
 }
 .news-sb .sb-text span{
-    font-size: 14px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 18%;
 }
 .news-sb .sb-box:hover .sb-text{
     display: block;
@@ -258,6 +262,9 @@ hr{
 }
 .sb-box{
     position: relative;
+}
+.sb-box img{
+    border-radius: 9px 9px 0px 0px;
 }
 .tag-sb p{
     font-size: 16px;
