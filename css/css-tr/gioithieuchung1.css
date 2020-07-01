@@ -87,8 +87,51 @@
     display: inline-block;
 }
 .page-textcolor .item_field .count_field h2{
-   padding-top:25px;
+   padding-top:15px;
 }
+.page-textcolor .item_field .count_field{
+    display: inline-block;
+    padding-top: 12px;
+    padding-right: 25px;
+    padding-left: 20px;
+}
+.page-textcolor .item_field:hover{
+    box-shadow: 1px 2px 12px 5px #88888840;
+    transition: 0.3s;
+}
+
+.page-textcolor .item_field .count_field .icon-color img{
+    display: none;
+    width: 10%;
+    position: absolute;
+    right: 0;
+    top: 48%;
+}
+.page-textcolor .item_field:hover .icon-color img{
+  display: block;
+}
+.page-textcolor .item_field{
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .page-slider-team .slider_project .item:after{
     display:none;

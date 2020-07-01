@@ -1,0 +1,55 @@
+@media screen and (max-width: 576px ){
+    /* LIEN HE */
+    .page-contact-color {
+        padding-bottom: 8%;
+    }
+    /* GIOI THIEU CHI TIET */
+    .page_in_library {
+        margin-top: 10%;
+    }
+    .title_text {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .team-item:first-child {
+        margin-top: 4%;
+    }
+    .team-item .content-box {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .team-item {
+        margin-top: 30px;
+    }
+    .team {
+        margin-bottom: 50px;
+    }
+    .page_map {
+        padding: 6% 0px;
+    }
+    /* CHI TIET TIN TUC */
+    .chitiettintuc h2 {
+        font-size: 36PX;
+        margin-top:25px;
+    }
+    .page-textcolor{
+        background-image: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
